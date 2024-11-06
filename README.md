@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kendallfinn
+- 👀 I’m interested in providing a place for prospective employers to view my SQL skills.
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I can throw pottery.
