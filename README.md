@@ -16,7 +16,7 @@ Agile SDLC (Advanced)
 Data Modeling/Data Architecture (Intermediate to Advanced)
 Data Governance/Master Data Management (Intermediate)
 
-High level of business accumen (Financial Reporting, FP&A, IT Capital Planning)
+High level of business accumen (Financial Reporting, FP&A, IT Capital Planning);
 Critical Thinking expertise
 
 MS Office, including SharePoint (Advanced)
